@@ -1,7 +1,6 @@
 {
-  "translations": [
-    {
-      "id": 1,
+  "translations": {
+    "en": {
       "English": "English",
       "German": "German",
       "Russian": "Russian",
@@ -9,8 +8,7 @@
       "Password": "Password",
       "Login": "Login"
     },
-    {
-      "id": 2,
+    "de": {
       "English": "Englisch",
       "German": "Deutsch",
       "Russian": "Russisch",
@@ -18,8 +16,7 @@
       "Password": "Passwort",
       "Login": "Einloggen"
     },
-    {
-      "id": 3,
+    "ru": {
       "English": "Английский",
       "German": "Немецкий",
       "Russian": "Русский",
@@ -27,7 +24,7 @@
       "Password": "Пароль",
       "Login": "Войти"
     }
-  ],
+  },
   "posts": [
     {
       "id": 1,
