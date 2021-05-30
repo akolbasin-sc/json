@@ -1,26 +1,40 @@
 {
-  "en": {
-    "English": "English",
-    "German": "German",
-    "Russian": "Russian",
-    "Email": "Email",
-    "Password": "Password",
-    "Login": "Login"
-  },
-  "de": {
-    "English": "Englisch",
-    "German": "Deutsch",
-    "Russian": "Russisch",
-    "Email": "Email",
-    "Password": "Passwort",
-    "Login": "Einloggen"
-  },
-  "ru": {
-    "English": "Английский",
-    "German": "Немецкий",
-    "Russian": "Русский",
-    "Email": "Электронная почта",
-    "Password": "Пароль",
-    "Login": "Войти"
+  "translations": [
+    {
+      "id": 1,
+      "English": "English",
+      "German": "German",
+      "Russian": "Russian",
+      "Email": "Email",
+      "Password": "Password",
+      "Login": "Login"
+    },
+    {
+      "id": 2,
+      "English": "Englisch",
+      "German": "Deutsch",
+      "Russian": "Russisch",
+      "Email": "Email",
+      "Password": "Passwort",
+      "Login": "Einloggen"
+    },
+    {
+      "id": 3,
+      "English": "Английский",
+      "German": "Немецкий",
+      "Russian": "Русский",
+      "Email": "Электронная почта",
+      "Password": "Пароль",
+      "Login": "Войти"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
