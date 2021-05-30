@@ -2,30 +2,39 @@
   "translations": [
     {
       "id": 1,
-      "English": "English",
-      "German": "German",
-      "Russian": "Russian",
-      "Email": "Email",
-      "Password": "Password",
-      "Login": "Login"
+      "locale": "en",
+      "messages": {
+        "English": "English",
+        "German": "German",
+        "Russian": "Russian",
+        "Email": "Email",
+        "Password": "Password",
+        "Login": "Login"
+      }
     },
     {
       "id": 2,
-      "English": "Englisch",
-      "German": "Deutsch",
-      "Russian": "Russisch",
-      "Email": "Email",
-      "Password": "Passwort",
-      "Login": "Einloggen"
+      "locale": "ru",
+      "messages": {
+        "English": "Английский",
+        "German": "Немецкий",
+        "Russian": "Русский",
+        "Email": "Электронная почта",
+        "Password": "Пароль",
+        "Login": "Войти"
+      }
     },
     {
       "id": 3,
-      "English": "Английский",
-      "German": "Немецкий",
-      "Russian": "Русский",
-      "Email": "Электронная почта",
-      "Password": "Пароль",
-      "Login": "Войти"
+      "locale": "de",
+      "messages": {
+        "English": "Englisch",
+        "German": "Deutsch",
+        "Russian": "Russisch",
+        "Email": "Email",
+        "Password": "Passwort",
+        "Login": "Einloggen"
+      }
     }
   ],
   "posts": [
