@@ -1,0 +1,26 @@
+{
+  "en": {
+    "English": "English",
+    "German": "German",
+    "Russian": "Russian",
+    "Email": "Email",
+    "Password": "Password",
+    "Login": "Login"
+  },
+  "de": {
+    "English": "Englisch",
+    "German": "Deutsch",
+    "Russian": "Russisch",
+    "Email": "Email",
+    "Password": "Passwort",
+    "Login": "Einloggen"
+  },
+  "ru": {
+    "English": "Английский",
+    "German": "Немецкий",
+    "Russian": "Русский",
+    "Email": "Электронная почта",
+    "Password": "Пароль",
+    "Login": "Войти"
+  }
+}
